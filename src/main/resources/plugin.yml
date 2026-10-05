@@ -1,0 +1,10 @@
+name: MathQuiz
+version: 1.0.0
+main: com.hamid.mathquiz.MathQuiz
+api-version: '1.20'
+author: Hamid
+description: "A simple and fun chat math quiz plugin for Paper."
+commands:
+  mathquiz:
+    description: "Reload plugin configuration or force start a quiz."
+    permission: mathquiz.admin
